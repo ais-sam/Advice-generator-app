@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/issam-abdou/Advice-generator-app](https://github.com/issam-abdou/Advice-generator-app)
-- Live Site URL: [https://issam-abdou.github.io/Advice-generator-app/](https://issam-abdou.github.io/Advice-generator-app/)
+- Solution URL: [https://github.com/ais-sam/Advice-generator-app](https://github.com/ais-sam/Advice-generator-app)
+- Live Site URL: [https://ais-sam.github.io/Advice-generator-app/](https://ais-sam.github.io/Advice-generator-app/)
 
 ## My process
 
@@ -52,7 +52,7 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@issam-abdou](https://www.frontendmentor.io/profile/issam-abdou)
+- Frontend Mentor - [@ais-sam](https://www.frontendmentor.io/profile/ais-sam)
 
 
 
